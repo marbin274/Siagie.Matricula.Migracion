@@ -4,3 +4,9 @@
 [submodule "Siagie.Matricula.Migracion.Worker"]
 	path = Siagie.Matricula.Migracion.Worker
 	url = https://github.com/marbin274/Siagie.Matricula.Migracion.Worker
+[submodule "Siagie.Matricula.Migracion.Dto"]
+	path = Siagie.Matricula.Migracion.Dto
+	url = https://github.com/marbin274/Siagie.Matricula.Migracion.Dto
+[submodule "Siagie.Matricula.Migracion.Dto"]
+	path = Siagie.Matricula.Migracion.Dto
+	url = https://github.com/marbin274/Siagie.Matricula.Migracion.Dto
