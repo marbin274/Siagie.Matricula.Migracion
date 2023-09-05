@@ -1,8 +1,8 @@
 [submodule "Siagie.Matricula.Migracion.Api"]
 	path = Siagie.Matricula.Migracion.Api
 	url = https://github.com/marbin274/Siagie.Matricula.Migracion.Api
-[submodule "Siagie.Matricula.Migracion.dto"]
-	path = Siagie.Matricula.Migracion.dto
+[submodule "Siagie.Matricula.Migracion.Dto"]
+	path = Siagie.Matricula.Migracion.Dto
 	url = https://github.com/marbin274/Siagie.Matricula.Migracion.Dto
 [submodule "Siagie.Matricula.Migracion.Worker"]
 	path = Siagie.Matricula.Migracion.Worker
